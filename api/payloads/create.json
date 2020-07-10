@@ -1,0 +1,11 @@
+{
+  "name": "Check Rest API",
+  "type": "SIMPLE",
+  "frequency": 5,
+  "uri": "https://newrelic.com",
+  "locations": [
+    "AWS_US_WEST_1"
+  ],
+  "status": "enabled",
+  "slaThreshold": "1.0"
+}
